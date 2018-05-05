@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/sobrecarga_de_operador.dir/main.cpp.o CMakeFiles/sobrecarga_de_operador.dir/Complexo.cpp.o CMakeFiles/sobrecarga_de_operador.dir/Retangulo.cpp.o CMakeFiles/sobrecarga_de_operador.dir/Logica.cpp.o  -o sobrecarga_de_operador 

@@ -1,0 +1,3 @@
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/cmake-build-debug/CMakeFiles/sobrecarga_de_operador.dir

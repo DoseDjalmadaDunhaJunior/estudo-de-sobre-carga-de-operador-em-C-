@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Complexo.cpp
+Complexo.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Complexo.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Complexo.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Logica.cpp
+Logica.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Logica.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Logica.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Retangulo.cpp
+Retangulo.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Retangulo.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Retangulo.h
+
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/main.cpp
+iostream
+-
+Complexo.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Complexo.h
+Retangulo.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Retangulo.h
+Logica.h
+/Users/djalmacunha/Desktop/paradas de algoritmo/estudo_em_cpp/sobrecarga-de-operador/Logica.h
+
